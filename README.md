@@ -1,24 +1,24 @@
-\# Chunk Chain Game
+# Chunk Chain Game
 
-!\[Language](https://img.shields.io/badge/language-Python-brightgreen?style=for-the-badge)
+![Language](https://img.shields.io/badge/language-Python-brightgreen?style=for-the-badge)
 
-!\[Frame](https://img.shields.io/badge/frame-tkinter-red?style=for-the-badge)
+![Frame](https://img.shields.io/badge/frame-tkinter-red?style=for-the-badge)
 
-!\[License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
 
-\[!\[Latest](https://img.shields.io/github/v/tag/Unknownuserfrommars/ChunkChainGame?style=for-the-badge\&color=green\&label=latest)](https://github.com/Unknownuserfrommars/ChunkChainGame/releases)
-
-
-
-(\[中文文档](/README\_zh.md))
+[![Latest](https://img.shields.io/github/v/tag/Unknownuserfrommars/ChunkChainGame?style=for-the-badge&color=green&label=latest)](https://github.com/Unknownuserfrommars/ChunkChainGame/releases)
 
 
 
-!\[Screenshot](img/home.png)
+([中文文档](/README_zh.md))
 
 
 
-\## Feature
+![Screenshot](img/home.png)
+
+
+
+## Feature
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-\## Requirements
+## Requirements
 
 
 
@@ -34,7 +34,7 @@
 
 
 
-\## Build
+## Build
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-\## Contributing
+## Contributing
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-\## Contact
+## Contact
 
 
 
